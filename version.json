@@ -1,10 +1,10 @@
 {
- "versionCode": 23,
- "versionName": "1.0.23",
- "apk": "JuboShongjog-1.0.23.apk",
- "sha256": "3566de1031f60a6bd80e39fdb8e697a1d644e8f082ba092f970880b41b705c9c",
- "apk32": "JuboShongjog-1.0.23-32bit.apk",
- "sha256_32": "5dee399fc9837aa992f13df21fecfdb86fa2b877dee7f5fb4972f2e97b628357",
- "notes": "নতুন লোগো: যুব বিভাগ ওয়ার্ডমার্ক (আইকন ও অ্যাপের ভেতরে)",
+ "versionCode": 24,
+ "versionName": "1.0.24",
+ "apk": "JuboShongjog-1.0.24.apk",
+ "sha256": "4f5b706ae9b0def40bac95e6e9bff35ded8caebcda8c48a6aa7c83e1c9f97a88",
+ "apk32": "JuboShongjog-1.0.24-32bit.apk",
+ "sha256_32": "4a2835e59b3fc72ddb4f84e981029d3d60b18f2a927c3503f4140975a57770cb",
+ "notes": "নতুন হেডার ডিজাইন: মসজিদ, সবুজ-লাল ঢেউ, তথ্যের পিল",
  "date": "2026-11-15"
 }
