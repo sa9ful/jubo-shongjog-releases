@@ -2,4 +2,7 @@
 
 যুব বিভাগ, ফরিদপুর জেলা
 
-সর্বশেষ অ্যাপ: [JuboShongjog-latest.apk](JuboShongjog-latest.apk) (v1.0.10)
+সর্বশেষ সংস্করণ: v1.0.11
+
+- **বেশিরভাগ ফোনের জন্য:** [JuboShongjog-latest.apk](JuboShongjog-latest.apk) (প্রায় 20 MB)
+- **পুরনো ফোনে ইনস্টল না হলে:** [JuboShongjog-latest-32bit.apk](JuboShongjog-latest-32bit.apk)

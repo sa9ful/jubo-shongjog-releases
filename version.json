@@ -1,8 +1,10 @@
 {
- "versionCode": 10,
- "versionName": "1.0.10",
- "apk": "JuboShongjog-1.0.10.apk",
- "sha256": "ecd01f8ec5adef89e6703198746becff3dd4f1234e7e48556d1d3fd82553d916",
- "notes": "বাংলাদেশের ৬৪ জেলা (বিভাগ অনুযায়ী) এক চাপে যোগ",
+ "versionCode": 11,
+ "versionName": "1.0.11",
+ "apk": "JuboShongjog-1.0.11.apk",
+ "sha256": "05783427d0e27db6933afcaf8a17c496366e6dbe16281ea9e461cd4a719aa243",
+ "apk32": "JuboShongjog-1.0.11-32bit.apk",
+ "sha256_32": "74b0b01e57a23704746eb4b685b5f0cc431137ef71d4bbcde1154bd0cc211635",
+ "notes": "অ্যাপের আকার কমানো: ফোনভিত্তিক আলাদা APK (প্রায় ২০ MB)",
  "date": "2026-11-15"
 }
