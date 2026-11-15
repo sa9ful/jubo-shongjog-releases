@@ -1,10 +1,10 @@
 {
- "versionCode": 15,
- "versionName": "1.0.15",
- "apk": "JuboShongjog-1.0.15.apk",
- "sha256": "c611c1ea590a76449ace823f012721cc5036feef6c615b4b6d8a2821cc7bc1d4",
- "apk32": "JuboShongjog-1.0.15-32bit.apk",
- "sha256_32": "e7cc84a523cad3512043b4eb357d65fd25857ed3b8e78a64313ed7240c1b8bfb",
- "notes": "দ্রুত আপডেট: একসাথে ৪ ভাগে ডাউনলোড, থেমে গেলে আবার শুরু, ছোট APK",
+ "versionCode": 16,
+ "versionName": "1.0.16",
+ "apk": "JuboShongjog-1.0.16.apk",
+ "sha256": "00e0373aef14a4a93816c363fe5d4603b47a0b7b9121621d2dc752c6f1eadaa0",
+ "apk32": "JuboShongjog-1.0.16-32bit.apk",
+ "sha256_32": "c598ebef201a8c53c166b5fd0da91053f46b3f63955f59ea6ee067b245da438b",
+ "notes": "সারা দেশের ৩৩০ পৌরসভা ও ১২ সিটি কর্পোরেশন এক চাপে যোগ",
  "date": "2026-11-15"
 }
