@@ -1,10 +1,10 @@
 {
- "versionCode": 19,
- "versionName": "1.0.19",
- "apk": "JuboShongjog-1.0.19.apk",
- "sha256": "ad2169103571519aa9cd5b0446530ba4637736b72bf89b189887a7089130bb9a",
- "apk32": "JuboShongjog-1.0.19-32bit.apk",
- "sha256_32": "b57013ea3855c3aa83c332f75840a4be6f426a89300ddae1c02c941197173da1",
- "notes": "বিল্ড ঠিক: অনুবাদের লেখা থেকে const সরানো",
+ "versionCode": 21,
+ "versionName": "1.0.21",
+ "apk": "JuboShongjog-1.0.21.apk",
+ "sha256": "ce52d00544a768109f927b73e07e97a29c5c97d16b47f4d61582c2a3ec57d684",
+ "apk32": "JuboShongjog-1.0.21-32bit.apk",
+ "sha256_32": "f2db5e3d8e00a98136ec83bc41d87adaed7194df742e9bb4fa11f6ff8b2cad53",
+ "notes": "লগইন ব্যানারের বন্ধনী ঠিক করা",
  "date": "2026-11-15"
 }
