@@ -1,8 +1,8 @@
 {
- "versionCode": 7,
- "versionName": "1.0.7",
- "apk": "JuboShongjog-1.0.7.apk",
- "sha256": "90c118a135bfb199c968a0a8b1b6359382d8663f380332f8e85df26117a4fad5",
- "notes": "ফরিদপুর সদরের ১২টি ইউনিয়ন ও প্রধান এলাকার তালিকা যো",
+ "versionCode": 8,
+ "versionName": "1.0.8",
+ "apk": "JuboShongjog-1.0.8.apk",
+ "sha256": "9f2759898e46fbbb0341df00c6cfb2aad8ff3c37df3fe8d280e3af067fe63146",
+ "notes": "সাইড মেনু ও অ্যাপের ভেতর থেকে আপডেট (শতাংশসহ ডাউনলোড)",
  "date": "2026-11-15"
 }
