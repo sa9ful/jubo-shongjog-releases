@@ -1,8 +1,8 @@
 {
- "versionCode": 9,
- "versionName": "1.0.9",
- "apk": "JuboShongjog-1.0.9.apk",
- "sha256": "466aca901204f9b1a14f3e2460645f5e1dc5ba6dec07551982f1802a0609a245",
- "notes": "তিন স্তরের অ্যাডমিন: সুপার, জেলা ও লোকাল অ্যাডমিন; একা",
+ "versionCode": 10,
+ "versionName": "1.0.10",
+ "apk": "JuboShongjog-1.0.10.apk",
+ "sha256": "ecd01f8ec5adef89e6703198746becff3dd4f1234e7e48556d1d3fd82553d916",
+ "notes": "বাংলাদেশের ৬৪ জেলা (বিভাগ অনুযায়ী) এক চাপে যোগ",
  "date": "2026-11-15"
 }
