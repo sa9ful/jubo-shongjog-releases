@@ -1,10 +1,10 @@
 {
- "versionCode": 14,
- "versionName": "1.0.14",
- "apk": "JuboShongjog-1.0.14.apk",
- "sha256": "70b6dd9d0385b69a4c16307af0bed5fa3c74a327440d3bf0e2b20aae409bb288",
- "apk32": "JuboShongjog-1.0.14-32bit.apk",
- "sha256_32": "ae03d1ae995edf80dc8eef1ea74757ea4981bc05c1abe7ca0424c60463fc8dd8",
- "notes": "নতুন ডিজাইন: সবুজ ব্যানার — বাংলাদেশ জামায়াতে ইসলামী, যুব বিভাগ",
+ "versionCode": 15,
+ "versionName": "1.0.15",
+ "apk": "JuboShongjog-1.0.15.apk",
+ "sha256": "c611c1ea590a76449ace823f012721cc5036feef6c615b4b6d8a2821cc7bc1d4",
+ "apk32": "JuboShongjog-1.0.15-32bit.apk",
+ "sha256_32": "e7cc84a523cad3512043b4eb357d65fd25857ed3b8e78a64313ed7240c1b8bfb",
+ "notes": "দ্রুত আপডেট: একসাথে ৪ ভাগে ডাউনলোড, থেমে গেলে আবার শুরু, ছোট APK",
  "date": "2026-11-15"
 }
