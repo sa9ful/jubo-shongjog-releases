@@ -1,10 +1,10 @@
 {
- "versionCode": 16,
- "versionName": "1.0.16",
- "apk": "JuboShongjog-1.0.16.apk",
- "sha256": "00e0373aef14a4a93816c363fe5d4603b47a0b7b9121621d2dc752c6f1eadaa0",
- "apk32": "JuboShongjog-1.0.16-32bit.apk",
- "sha256_32": "c598ebef201a8c53c166b5fd0da91053f46b3f63955f59ea6ee067b245da438b",
- "notes": "সারা দেশের ৩৩০ পৌরসভা ও ১২ সিটি কর্পোরেশন এক চাপে যোগ",
+ "versionCode": 17,
+ "versionName": "1.0.17",
+ "apk": "JuboShongjog-1.0.17.apk",
+ "sha256": "c32da2cf5d3045b85cf9ecf7ee205add0cb8a1394aae48100a679ca68e8932f9",
+ "apk32": "JuboShongjog-1.0.17-32bit.apk",
+ "sha256_32": "71c1003b4c2f4bb09c4a8007cf8302d0035b604fc0490e908d411ac8ba61f5ea",
+ "notes": "বাগ ঠিক: লগইন আটকে যাওয়া; সদস্যের আইডি কার্ড (সামনে-পেছনে, QR, শেয়ার)",
  "date": "2026-11-15"
 }
