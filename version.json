@@ -1,10 +1,10 @@
 {
- "versionCode": 11,
- "versionName": "1.0.11",
- "apk": "JuboShongjog-1.0.11.apk",
- "sha256": "05783427d0e27db6933afcaf8a17c496366e6dbe16281ea9e461cd4a719aa243",
- "apk32": "JuboShongjog-1.0.11-32bit.apk",
- "sha256_32": "74b0b01e57a23704746eb4b685b5f0cc431137ef71d4bbcde1154bd0cc211635",
- "notes": "অ্যাপের আকার কমানো: ফোনভিত্তিক আলাদা APK (প্রায় ২০ MB)",
+ "versionCode": 13,
+ "versionName": "1.0.13",
+ "apk": "JuboShongjog-1.0.13.apk",
+ "sha256": "63f3c6a342d2881d2dc9c607027fb946d1952cf49b526438f3ed984e4d5d23e3",
+ "apk32": "JuboShongjog-1.0.13-32bit.apk",
+ "sha256_32": "f614030665110b024316e99bf55dbf36324ddb65d2e69594c905ec3784566409",
+ "notes": "ডাউনলোড রিপোজিটরিতে প্রকাশের ধাপ ঠিক করা (বাংলা বার্তা কাটা সমস্যা)",
  "date": "2026-11-15"
 }
