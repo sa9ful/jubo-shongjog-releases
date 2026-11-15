@@ -1,10 +1,10 @@
 {
- "versionCode": 17,
- "versionName": "1.0.17",
- "apk": "JuboShongjog-1.0.17.apk",
- "sha256": "c32da2cf5d3045b85cf9ecf7ee205add0cb8a1394aae48100a679ca68e8932f9",
- "apk32": "JuboShongjog-1.0.17-32bit.apk",
- "sha256_32": "71c1003b4c2f4bb09c4a8007cf8302d0035b604fc0490e908d411ac8ba61f5ea",
- "notes": "বাগ ঠিক: লগইন আটকে যাওয়া; সদস্যের আইডি কার্ড (সামনে-পেছনে, QR, শেয়ার)",
+ "versionCode": 19,
+ "versionName": "1.0.19",
+ "apk": "JuboShongjog-1.0.19.apk",
+ "sha256": "ad2169103571519aa9cd5b0446530ba4637736b72bf89b189887a7089130bb9a",
+ "apk32": "JuboShongjog-1.0.19-32bit.apk",
+ "sha256_32": "b57013ea3855c3aa83c332f75840a4be6f426a89300ddae1c02c941197173da1",
+ "notes": "বিল্ড ঠিক: অনুবাদের লেখা থেকে const সরানো",
  "date": "2026-11-15"
 }
