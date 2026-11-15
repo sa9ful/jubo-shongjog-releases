@@ -1,10 +1,10 @@
 {
- "versionCode": 21,
- "versionName": "1.0.21",
- "apk": "JuboShongjog-1.0.21.apk",
- "sha256": "ce52d00544a768109f927b73e07e97a29c5c97d16b47f4d61582c2a3ec57d684",
- "apk32": "JuboShongjog-1.0.21-32bit.apk",
- "sha256_32": "f2db5e3d8e00a98136ec83bc41d87adaed7194df742e9bb4fa11f6ff8b2cad53",
- "notes": "লগইন ব্যানারের বন্ধনী ঠিক করা",
+ "versionCode": 23,
+ "versionName": "1.0.23",
+ "apk": "JuboShongjog-1.0.23.apk",
+ "sha256": "3566de1031f60a6bd80e39fdb8e697a1d644e8f082ba092f970880b41b705c9c",
+ "apk32": "JuboShongjog-1.0.23-32bit.apk",
+ "sha256_32": "5dee399fc9837aa992f13df21fecfdb86fa2b877dee7f5fb4972f2e97b628357",
+ "notes": "নতুন লোগো: যুব বিভাগ ওয়ার্ডমার্ক (আইকন ও অ্যাপের ভেতরে)",
  "date": "2026-11-15"
 }
