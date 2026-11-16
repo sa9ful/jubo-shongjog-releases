@@ -1,10 +1,10 @@
 {
- "versionCode": 27,
- "versionName": "1.0.27",
- "apk": "JuboShongjog-1.0.27.apk",
- "sha256": "b3eeabd957e9b8ae0dff24888c0e804cd53a7357f957ba5dfbc6cec6f2819c10",
- "apk32": "JuboShongjog-1.0.27-32bit.apk",
- "sha256_32": "4f8ebf77d3938d2869d2eb447ab4840742bdc897a8ceaea9601de9feef4acb67",
- "notes": "জেলা দায়িত্বশীল: জেলা ড্যাশবোর্ড (ইউনিয়ন তুলনা, রিপোর্ট বই, ব্যক্তিগত মান, স্তর, ইয়ানত), PDF ও Ex",
+ "versionCode": 28,
+ "versionName": "1.0.28",
+ "apk": "JuboShongjog-1.0.28.apk",
+ "sha256": "cee75cbd935c062cfdc49d672e702e254e73a1e6c0ecf31d25b1cee3a0b324e4",
+ "apk32": "JuboShongjog-1.0.28-32bit.apk",
+ "sha256_32": "b4deb1a3c810559dcac25e0242f65e1b9ca8d72b74d04acfc5e0ef614a8985c7",
+ "notes": "ওয়ার্ড সহকারী রোল (শুধু দেখা ও ইয়ানতের এন্ট্রি); নিয়ম কঠোর: নোটিশ/প্রোগ্রাম শুধু নিজের ও উপরের এল",
  "date": "2026-11-16"
 }
