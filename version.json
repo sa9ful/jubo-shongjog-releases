@@ -1,10 +1,10 @@
 {
- "versionCode": 33,
- "versionName": "1.0.33",
- "apk": "JuboShongjog-1.0.33.apk",
- "sha256": "c31c04207a5928a12cf8f03340aa2bdba8e02f1850f34149fe36c1adf609ffe8",
- "apk32": "JuboShongjog-1.0.33-32bit.apk",
- "sha256_32": "f055f292b208566fe132a9b005f0d9efddf06cab4b4326679da1bc0cbce83238",
- "notes": "কাজের পাতা: হালকা মিনিমাল নকশা — সাদা কার্ডে ৪ কলামের ছোট আইকন, উপরে এলাকা ও অপেক্ষমাণ কাজের সারাংশ",
+ "versionCode": 35,
+ "versionName": "1.0.35",
+ "apk": "JuboShongjog-1.0.35.apk",
+ "sha256": "8dca9c34ecf7927e255dcb3b9d554fb5804a853aa8067478afd98a194630f77d",
+ "apk32": "JuboShongjog-1.0.35-32bit.apk",
+ "sha256_32": "88d7cb04d6d93b6d2d57cf52b318ae246a08970b3457f632a2b408ea1eee14f6",
+ "notes": "অডিট: ওয়ার্ড দায়িত্বশীলের নতুন চ্যাট শুধু কর্মীদের সাথে, মেসেজের দৈর্ঘ্যসীমা",
  "date": "2026-11-16"
 }
