@@ -1,10 +1,10 @@
 {
- "versionCode": 25,
- "versionName": "1.0.25",
- "apk": "JuboShongjog-1.0.25.apk",
- "sha256": "8509f04ae1911a9ba199cca325ec0c237705cc6ae1024740b6f343e73e5aac79",
- "apk32": "JuboShongjog-1.0.25-32bit.apk",
- "sha256_32": "623e4586dc347d5f5368ee15eaaf02210972877477b47c3f365e9ab27a96b4b7",
- "notes": "নতুন: কর্মী লগইন, নোটিশ/ব্রডকাস্ট, ইনবক্স চ্যাট, প্রোগ্রাম ও উপস্থিতি, কাজ, রিং রিমাইন্ডার, ইয়ানত, ",
+ "versionCode": 26,
+ "versionName": "1.0.26",
+ "apk": "JuboShongjog-1.0.26.apk",
+ "sha256": "b3ddae3db14ffd8d6eb8a7d904728bf8fa26177a7d1b9b1f7eecd243c48986ff",
+ "apk32": "JuboShongjog-1.0.26-32bit.apk",
+ "sha256_32": "c0d4432b82b526e70aacec804e9ebca057c375af35d8f06a58f4fffe5811d8d9",
+ "notes": "নতুন: QR হাজিরা ও হাজিরা খাতা, জনশক্তির মান ও মানোন্নয়ন, নতুন জনশক্তির প্রস্তাব, সিলেবাস ও লাইব্রের",
  "date": "2026-11-16"
 }
