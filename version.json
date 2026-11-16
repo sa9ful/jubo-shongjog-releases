@@ -1,10 +1,10 @@
 {
- "versionCode": 30,
- "versionName": "1.0.30",
- "apk": "JuboShongjog-1.0.30.apk",
- "sha256": "e5d39cb792cf000f925c41895122b439372c69e8c0436de3cd4ad87457f9ef95",
- "apk32": "JuboShongjog-1.0.30-32bit.apk",
- "sha256_32": "e3f60427d8011cf0fa079dc9a5651b3260120a760cab1cfa698c32b75f9fc709",
- "notes": "ব্যক্তিগত রিপোর্ট: কুরআন/হাদীস (অধ্যয়ন, মুখস্ত, দারস), সাহিত্য, নামাজ (জামায়াত/কাজা), যোগাযোগ, বিত",
+ "versionCode": 32,
+ "versionName": "1.0.32",
+ "apk": "JuboShongjog-1.0.32.apk",
+ "sha256": "476e5ec714460660c38946c404d92304d2c679c9fdc74c9cc218e80821f39fa5",
+ "apk32": "JuboShongjog-1.0.32-32bit.apk",
+ "sha256_32": "82c9255d4abcd877850c20e1ef88e806ae624d765839efb1c80c9ab6ebeb9940",
+ "notes": "file_picker নতুন সংস্করণ (Android SDK 36)",
  "date": "2026-11-16"
 }
