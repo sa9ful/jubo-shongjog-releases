@@ -1,10 +1,10 @@
 {
- "versionCode": 32,
- "versionName": "1.0.32",
- "apk": "JuboShongjog-1.0.32.apk",
- "sha256": "476e5ec714460660c38946c404d92304d2c679c9fdc74c9cc218e80821f39fa5",
- "apk32": "JuboShongjog-1.0.32-32bit.apk",
- "sha256_32": "82c9255d4abcd877850c20e1ef88e806ae624d765839efb1c80c9ab6ebeb9940",
- "notes": "file_picker নতুন সংস্করণ (Android SDK 36)",
+ "versionCode": 33,
+ "versionName": "1.0.33",
+ "apk": "JuboShongjog-1.0.33.apk",
+ "sha256": "c31c04207a5928a12cf8f03340aa2bdba8e02f1850f34149fe36c1adf609ffe8",
+ "apk32": "JuboShongjog-1.0.33-32bit.apk",
+ "sha256_32": "f055f292b208566fe132a9b005f0d9efddf06cab4b4326679da1bc0cbce83238",
+ "notes": "কাজের পাতা: হালকা মিনিমাল নকশা — সাদা কার্ডে ৪ কলামের ছোট আইকন, উপরে এলাকা ও অপেক্ষমাণ কাজের সারাংশ",
  "date": "2026-11-16"
 }
