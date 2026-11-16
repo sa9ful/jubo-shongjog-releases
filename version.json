@@ -1,10 +1,10 @@
 {
- "versionCode": 26,
- "versionName": "1.0.26",
- "apk": "JuboShongjog-1.0.26.apk",
- "sha256": "b3ddae3db14ffd8d6eb8a7d904728bf8fa26177a7d1b9b1f7eecd243c48986ff",
- "apk32": "JuboShongjog-1.0.26-32bit.apk",
- "sha256_32": "c0d4432b82b526e70aacec804e9ebca057c375af35d8f06a58f4fffe5811d8d9",
- "notes": "নতুন: QR হাজিরা ও হাজিরা খাতা, জনশক্তির মান ও মানোন্নয়ন, নতুন জনশক্তির প্রস্তাব, সিলেবাস ও লাইব্রের",
+ "versionCode": 27,
+ "versionName": "1.0.27",
+ "apk": "JuboShongjog-1.0.27.apk",
+ "sha256": "b3eeabd957e9b8ae0dff24888c0e804cd53a7357f957ba5dfbc6cec6f2819c10",
+ "apk32": "JuboShongjog-1.0.27-32bit.apk",
+ "sha256_32": "4f8ebf77d3938d2869d2eb447ab4840742bdc897a8ceaea9601de9feef4acb67",
+ "notes": "জেলা দায়িত্বশীল: জেলা ড্যাশবোর্ড (ইউনিয়ন তুলনা, রিপোর্ট বই, ব্যক্তিগত মান, স্তর, ইয়ানত), PDF ও Ex",
  "date": "2026-11-16"
 }
