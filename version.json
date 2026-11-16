@@ -1,10 +1,10 @@
 {
- "versionCode": 29,
- "versionName": "1.0.29",
- "apk": "JuboShongjog-1.0.29.apk",
- "sha256": "c78bcb46a4d303a999ed84236f7ffab36c6e384d1699b9832122c307f8884e50",
- "apk32": "JuboShongjog-1.0.29-32bit.apk",
- "sha256_32": "ec44b9890eef8ccbbb4c430827a082d9bde543544ba2df423243b4ea8c5bf833",
- "notes": "নিচে ভাসমান নেভিগেশন বার (সবুজ পিল ও মাঝে গোল বোতাম): কর্মী — হোম, নোটিশ, দৈনিক রিপোর্ট, মেসেজ, আইডি",
+ "versionCode": 30,
+ "versionName": "1.0.30",
+ "apk": "JuboShongjog-1.0.30.apk",
+ "sha256": "e5d39cb792cf000f925c41895122b439372c69e8c0436de3cd4ad87457f9ef95",
+ "apk32": "JuboShongjog-1.0.30-32bit.apk",
+ "sha256_32": "e3f60427d8011cf0fa079dc9a5651b3260120a760cab1cfa698c32b75f9fc709",
+ "notes": "ব্যক্তিগত রিপোর্ট: কুরআন/হাদীস (অধ্যয়ন, মুখস্ত, দারস), সাহিত্য, নামাজ (জামায়াত/কাজা), যোগাযোগ, বিত",
  "date": "2026-11-16"
 }
