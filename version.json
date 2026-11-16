@@ -1,10 +1,10 @@
 {
- "versionCode": 24,
- "versionName": "1.0.24",
- "apk": "JuboShongjog-1.0.24.apk",
- "sha256": "4f5b706ae9b0def40bac95e6e9bff35ded8caebcda8c48a6aa7c83e1c9f97a88",
- "apk32": "JuboShongjog-1.0.24-32bit.apk",
- "sha256_32": "4a2835e59b3fc72ddb4f84e981029d3d60b18f2a927c3503f4140975a57770cb",
- "notes": "নতুন হেডার ডিজাইন: মসজিদ, সবুজ-লাল ঢেউ, তথ্যের পিল",
- "date": "2026-11-15"
+ "versionCode": 25,
+ "versionName": "1.0.25",
+ "apk": "JuboShongjog-1.0.25.apk",
+ "sha256": "8509f04ae1911a9ba199cca325ec0c237705cc6ae1024740b6f343e73e5aac79",
+ "apk32": "JuboShongjog-1.0.25-32bit.apk",
+ "sha256_32": "623e4586dc347d5f5368ee15eaaf02210972877477b47c3f365e9ab27a96b4b7",
+ "notes": "নতুন: কর্মী লগইন, নোটিশ/ব্রডকাস্ট, ইনবক্স চ্যাট, প্রোগ্রাম ও উপস্থিতি, কাজ, রিং রিমাইন্ডার, ইয়ানত, ",
+ "date": "2026-11-16"
 }
