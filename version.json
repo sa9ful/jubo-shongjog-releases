@@ -1,10 +1,10 @@
 {
- "versionCode": 28,
- "versionName": "1.0.28",
- "apk": "JuboShongjog-1.0.28.apk",
- "sha256": "cee75cbd935c062cfdc49d672e702e254e73a1e6c0ecf31d25b1cee3a0b324e4",
- "apk32": "JuboShongjog-1.0.28-32bit.apk",
- "sha256_32": "b4deb1a3c810559dcac25e0242f65e1b9ca8d72b74d04acfc5e0ef614a8985c7",
- "notes": "ওয়ার্ড সহকারী রোল (শুধু দেখা ও ইয়ানতের এন্ট্রি); নিয়ম কঠোর: নোটিশ/প্রোগ্রাম শুধু নিজের ও উপরের এল",
+ "versionCode": 29,
+ "versionName": "1.0.29",
+ "apk": "JuboShongjog-1.0.29.apk",
+ "sha256": "c78bcb46a4d303a999ed84236f7ffab36c6e384d1699b9832122c307f8884e50",
+ "apk32": "JuboShongjog-1.0.29-32bit.apk",
+ "sha256_32": "ec44b9890eef8ccbbb4c430827a082d9bde543544ba2df423243b4ea8c5bf833",
+ "notes": "নিচে ভাসমান নেভিগেশন বার (সবুজ পিল ও মাঝে গোল বোতাম): কর্মী — হোম, নোটিশ, দৈনিক রিপোর্ট, মেসেজ, আইডি",
  "date": "2026-11-16"
 }
